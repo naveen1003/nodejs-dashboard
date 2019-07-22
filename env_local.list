@@ -1,0 +1,3 @@
+MONGODB_URL=mongodb://localhost:27017
+AZURE_DASHBOARD_BASE_URL=https://dev.azure.com/banubasavalingaiah/
+AZURE_DASHBOARD_TOKEN=Basic YmFudS5iYXNhdmFsaW5nYWlhaEBpbi5pYm0uY29tOmNnM2JmenJiaTdkeG1sYWJjNHJpNzJvYjJlN3RqNmJxdjJxdWYyNDZmY2NycXpuemlxbnE=

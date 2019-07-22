@@ -1,0 +1,3 @@
+MONGODB_URL=mongodb://dashboardserver.southindia.cloudapp.azure.com:27017
+AZURE_DASHBOARD_BASE_URL=https://dev.azure.com/sede-ds-adp/
+AZURE_DASHBOARD_TOKEN=Basic bWFtYXRoYS5wcmFobGFkQHNoZWxsLmNvbTpqNnptcWtxb295YWllcXdqN2g0c3Q2cW1nYnBseDJyYXo3dmJ1NzV4bXpjeHUyczNocmhx
