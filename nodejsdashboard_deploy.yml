@@ -12,6 +12,13 @@ spec:
       containers:
       - name: nodedevopsdashboard
         image: docker1003/nodejsdashboard:latest
+        env:
+        - name: MONGODB_URL
+          value: mongodb://35.225.157.133.xip.io:32707
+        - name: AZURE_DASHBOARD_BASE_URL
+          value: https://dev.azure.com/banubasavalingaiah/
+        - name: AZURE_DASHBOARD_TOKEN
+          value: Basic YmFudS5iYXNhdmFsaW5nYWlhaEBpbi5pYm0uY29tOmNnM2JmenJiaTdkeG1sYWJjNHJpNzJvYjJlN3RqNmJxdjJxdWYyNDZmY2NycXpuemlxbnE= 
         ports:
         - name: node-port
           containerPort: 4200
